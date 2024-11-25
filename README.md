@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on CSC2024
+🔭
 
 <!--
 **MinCarve/mincarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
